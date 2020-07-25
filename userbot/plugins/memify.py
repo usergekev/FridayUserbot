@@ -118,7 +118,7 @@ async def _(event):
                 # Courtesy: @A_Dark_Princ3
             )
             await event.delete()
-            await borg.send_message(event.chat_id, "`¯\_༼ ಥ ‿ ಥ ༽_/¯23 Points to @R4N4N4!🔥🔥`")
+            await borg.send_message(event.chat_id, "`¯\_༼ ಥ ‿ ಥ ༽_/¯100 Points to @MIGHTY_KEVIN !🐰🐰`")
           elif not is_message_image(reply_message):
             await event.edit("Invalid message type. Plz choose right message type u NIBBA.")
             return
